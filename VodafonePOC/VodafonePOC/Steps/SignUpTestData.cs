@@ -3,7 +3,7 @@ namespace VodafonePOC.Steps.SignUp
 {
     class SignUpTestData
     {
-        public static string emailAddress = "Tester2345ffr6@domainTest.com";
+        public static string emailAddress = "FirstTester1234@domainTest.com";
         public static string tilte = "Mr";
         public static string firstName = "Tester";
         public static string lastName = "Automation";
